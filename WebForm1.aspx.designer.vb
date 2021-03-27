@@ -30,4 +30,13 @@ Partial Public Class WebForm1
     '''Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
     '''</remarks>
     Protected WithEvents Lbtest As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Contrôle Lbtest1.
+    '''</summary>
+    '''<remarks>
+    '''Champ généré automatiquement.
+    '''Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+    '''</remarks>
+    Protected WithEvents Lbtest1 As Global.System.Web.UI.WebControls.Label
 End Class

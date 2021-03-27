@@ -11,6 +11,7 @@
     <form id="form1" runat="server">
         <div>
             <asp:Label ID="Lbtest" runat="server" Text="Ceci est un exemple" />
+            <asp:Label ID="Lbtest1" runat="server" Text="Ceci est un exemple 2" /> 
         </div>
     </form>
 </body>
